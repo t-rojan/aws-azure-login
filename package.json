@@ -21,7 +21,7 @@
     "inquirer": "^6.2.0",
     "lodash": "^4.17.11",
     "mkdirp": "^0.5.1",
-    "proxy-agent": "^3.0.3",
+    "proxy-agent": "^4.0.0",
     "puppeteer": "^1.8.0",
     "uuid": "^3.3.2"
   },
